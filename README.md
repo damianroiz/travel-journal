@@ -1,6 +1,6 @@
 # travel-journal
 
-[This is the final projec of the second module of [Scrimba's React Course For Begginers]((https://scrimba.com/learn/learnreact)).
+[This is the final project of the second module of [Scrimba's React Course For Begginers]((https://scrimba.com/learn/learnreact)).
 
 ## Instructions
 
