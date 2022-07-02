@@ -34,3 +34,10 @@ nav p {
   padding-top: 7px;
 }
 
+.card-container {
+  height: 168px;
+  width: 471px;
+  display: flex;
+  gap: 10px;
+}
+
